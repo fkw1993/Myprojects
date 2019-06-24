@@ -10,6 +10,10 @@ public class HelloController {
     public String hello() {
         return "你好,百度！";
     }
+    public String hello2() {
+        return "你好,百度！";
+    }
+
 }
 
 
